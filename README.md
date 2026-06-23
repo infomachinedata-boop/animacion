@@ -2,7 +2,16 @@
 
 A simple interactive landing page showing off front-end animations using GSAP, ScrollTrigger, and HTML5 Canvas.
 
-![Demo Preview](demo.webp)
+## Preview
+
+### Hero Section
+![Hero Section](screenshots/hero.png)
+
+### Features Section (with Hover Glow)
+![Features Section](screenshots/features.png)
+
+### Interactive Sphere
+![Interactive Sphere](screenshots/sphere.png)
 
 ## Features
 
